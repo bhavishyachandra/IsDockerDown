@@ -7,6 +7,27 @@ a.navbar-brand {
   word-break: break-all;
 }
 
+body {
+    background-color: crimson;
+    text-align: center;
+    color: white;
+}
+
+.ohyeah {
+    font-size: 72pt;
+    font-weight: bold;
+    margin-top: 2em;
+    margin-bottom: 0;
+    padding: 0;
+}
+
+.sendhelp {
+    padding: 0;
+    margin: 0;
+    font-size: 15pt;
+    margin-top: 0;
+}
+
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
